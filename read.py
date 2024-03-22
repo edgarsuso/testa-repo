@@ -12,5 +12,5 @@ for specificData in data:
         if specificData["Name"] == "LV":
             continue
         print(specificData["Name"] + " - " + specificData["DateTimeForData"] + " - " + specificData["Value"] + " Eur")
-
+#asd
 print("Done")
