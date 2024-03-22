@@ -11,8 +11,6 @@ for specificData in data:
     if specificData["Index"] == 0:
         if specificData["Name"] == "LV":
             continue
-        print(specificData["Name"] + " - " + specificData["Value"])
+        print(specificData["Name"] + " - " + specificData["DateTimeForData"] + " - " + specificData["Value"] + " Eur")
 
-
-#print(data)
 print("Done")
