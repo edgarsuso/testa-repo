@@ -1,0 +1,1 @@
+#Karsu izmantosana
